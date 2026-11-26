@@ -24,7 +24,7 @@ Manual checks: aim at each object, toggle twice, move out of range, place a soli
 
 ## Credits
 
-Centolinho — 1717 Interactive. Initial implementation assisted by AI.
+Centolinho — 1717 Interactive.
 
 Contact: 1717interactive@gmail.com
 
